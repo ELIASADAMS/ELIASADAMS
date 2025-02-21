@@ -13,9 +13,9 @@
 
 - 🤝 I’m looking for help with [eli_lab Pipeline Hub](https://github.com/ELIASADAMS/eli_lab_pipeline_hub.git)
 
-- 👨‍💻 All of my projects are available at [https://eliasadams.github.io/eli_lab/index.html](https://eliasadams.github.io/eli_lab/index.html)
+- 👨‍💻 All of my projects are available at [My personal site](https://eliasadams.github.io/eli_lab/index.html)
 
-- 📝 I regularly write articles on [https://t.me/ilyaminineli](https://t.me/ilyaminineli)
+- 📝 I regularly write articles on [My Telegram channel](https://t.me/ilyaminineli)
 
 - 📫 How to reach me **ilyaminineli@gmail.com**
 
