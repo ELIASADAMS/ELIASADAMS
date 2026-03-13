@@ -1,9 +1,6 @@
 <h1 align="center">Hello, my name is Ilya Minin (Eli)</h1>
 <h3 align="center">I'm an artist. Computer artist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eliasadams&label=Profile%20views&color=0e75b6&style=flat" alt="eliasadams" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eliasadams" alt="eliasadams" /></a> </p>
 
 - 🔭 I’m currently working on [Daly Syndrome](https://eliasadams.github.io/eli_lab/daly_syndrome.html)
 
