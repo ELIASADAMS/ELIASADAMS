@@ -2,19 +2,19 @@
 <h3 align="center">I'm an artist. Computer artist</h3>
 
 
-- 🔭 I’m currently working on [Daly Syndrome](https://eliasadams.github.io/eli_lab/daly_syndrome.html)
+- Currently working on [茜音イーライ](https://github.com/ELIASADAMS/Iirai)
 
-- 🌱 I’m currently learning **Python**
+- Learning **Python** and **Ruby**
 
-- 👯 I’m looking to collaborate on [SLEEPDOM](https://github.com/ELIASADAMS/Sleepdom)
+- Looking to collaborate on [響 Hiro UST generator](https://github.com/ELIASADAMS/text-to-ust)
 
-- 🤝 I’m looking for help with [eli_lab Pipeline Hub](https://github.com/ELIASADAMS/eli_lab_pipeline_hub.git)
+- Looking for help with [eli_lab Pipeline Hub](https://github.com/ELIASADAMS/eli_lab_pipeline_hub)
 
-- 👨‍💻 All of my projects are available at [My personal site](https://eliasadams.github.io/eli_lab/index.html)
+- All of my projects are available at [My personal site](https://eliasadams.github.io/eli_lab/index.html)
 
-- 📝 I regularly write articles on [My Telegram channel](https://t.me/ilyaminineli)
+- Regularly write articles on [My Telegram channel](https://t.me/ilyaminineli)
 
-- 📫 How to reach me **ilyaminineli@gmail.com**
+- Reach me: **ilyaminineli@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
