@@ -1,6 +1,6 @@
 <div align="center">
 
-# ELIASADAMS / Eli
+# Ilya Minin (Eli)
 
 ### Artist · Creative Technologist · Generative Audio Developer
 
@@ -193,7 +193,6 @@ Not everything I make is a flagship project. Some repositories are deliberately 
 
 A few examples:
 
-- [**`midi-model`**](https://github.com/ELIASADAMS/midi-model) — experimental MIDI / music-system work
 - [**`parazit-web`**](https://github.com/ELIASADAMS/parazit-web) — experimental web work
 - [**`eli3d.github.io`**](https://github.com/ELIASADAMS/eli3d.github.io) — 3D / web experiments
 - [**`punk_exhibition`**](https://github.com/ELIASADAMS/punk_exhibition) — exhibition-related experiment
