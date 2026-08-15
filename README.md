@@ -1,32 +1,247 @@
-<h1 align="center">Hello, my name is Ilya Minin (Eli)</h1>
-<h3 align="center">I'm an artist. Computer artist</h3>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eliasadams" alt="eliasadams" /></a> </p>
+# ELIASADAMS / Eli
 
-- Currently working on [友人 (Eugene) UTAU voicebank](https://github.com/ELIASADAMS/eugene-utau)
+### Artist · Creative Technologist · Generative Audio Developer
 
-- I’m looking to collaborate on [響 Hiro UTAU .ust generator](https://github.com/ELIASADAMS/text-to-ust)
+**Sound · voice synthesis · code · interactive archives · experimental media**
 
-- Looking for help with [eli_lab Pipeline Hub](https://github.com/ELIASADAMS/eli_lab_pipeline_hub)
+[![Website](https://img.shields.io/badge/eli__lab-website-111111?style=flat-square)](https://eliasadams.github.io/)
+[![YouTube](https://img.shields.io/badge/YouTube-elilab-111111?style=flat-square&logo=youtube)](https://www.youtube.com/@elilab)
+[![Instagram](https://img.shields.io/badge/Instagram-eli__lab__official-111111?style=flat-square&logo=instagram)](https://instagram.com/eli_lab_official)
+[![Telegram](https://img.shields.io/badge/Telegram-ilyaminineli-111111?style=flat-square&logo=telegram)](https://t.me/ilyaminineli)
 
-- Regularly write articles on [My Telegram Channel](https://t.me/ilyaminineli)
+</div>
 
-- Reach me **ilyaminineli@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ilyaminineli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ilyaminineli" height="30" width="40" /></a>
-<a href="https://instagram.com/eli_lab_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eli_lab_official" height="30" width="40" /></a>
-<a href="https://www.behance.net/eli_lab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="eli_lab" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@elilab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="elilab" height="30" width="40" /></a>
-<a href="https://discord.gg/elilab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="elilab" height="30" width="40" /></a>
+## About
+
+I'm **Ilya Minin (Eli)** — an artist and creative technologist working somewhere between **experimental music, vocal synthesis, generative systems, interactive media, and digital folklore**.
+
+My projects often begin as software and end as something more ambiguous: a voicebank, a song, a machine-like interface, an archive, a field recording, an audiovisual work, or a fictional system with its own rules.
+
+A large part of my current practice is concerned with **landscape, infrastructure, memory, Japanese folklore, ritual, forgotten voices, and digital archaeology**. Code is not only a production tool here — it is part of the artistic material itself.
+
+> **I make systems that can remember, mutate, sing, and document things.**
+
+---
+
+## What I'm working with
+
+```text
+                 ELI LAB
+                    │
+        ┌───────────┼───────────┐
+        │           │           │
+      SOUND       VOICE        MEDIA
+        │           │           │
+   Sonic Pi      UTAU        Web / UI
+   Generative    SynthV      Archives
+   Ambient       Voicebanks  Interactive works
+   Experimental  Phonemics   Documentation
+        │           │           │
+        └───────────┼───────────┘
+                    │
+              CODE AS MEDIUM
+                    │
+          MEMORY / LANDSCAPE /
+          FOLKLORE / MACHINES
+```
+
+### Main areas
+
+- 🎛️ **Generative & experimental audio** — procedural music, Sonic Pi systems, rhythmic structures, ambient environments, ritualistic sound design
+- 🗣️ **Vocal synthesis** — UTAU, OpenUtau, Synthesizer V, voicebank design, phonemization, tuning and expressive synthesis
+- 🧠 **Generative music software** — algorithms for lyrics, melody, motifs, timing, dynamics, pitch expression and UST generation
+- 🏚️ **Interactive archives** — web interfaces that treat documentation and media as something to be explored rather than simply read
+- 🗾 **Japanese / Fuji-related projects** — field recordings, invented folklore, yokai research, mountain and forest imagery, shrines, infrastructure and memory
+- 🎞️ **Audiovisual work** — music videos, experimental websites, visual systems and multimedia projects
+- 🧪 **Creative software experiments** — small tools, frameworks, scripts and prototypes that grow out of artistic problems
+
+---
+
+## Featured projects
+
+### 🎼 響 Hiro — procedural UTAU `.ust` generator
+
+[**`text-to-ust` →**](https://github.com/ELIASADAMS/text-to-ust)
+
+A procedural Japanese lyric → UTAU UST generator designed as a **generative starting point and tuning assistant**.
+
+Hiro combines:
+
+- Japanese mora-aware phonemization
+- yōon, small-tsu and moraic nasal handling
+- phrase and section analysis
+- procedural melody generation
+- scale and voice-range constraints
+- motif memory and variation
+- deterministic seeded generation
+- timing and dynamics heuristics
+- Japanese pitch-accent-aware behaviour
+- pitch bends and microtonal expression
+- UST serialization
+
+The goal is not to replace a human tuner. It is to make the space between **lyrics → musical idea → editable vocal project** much faster and more expressive.
+
+---
+
+### 🗣️ Voicebanks & vocal characters
+
+[**友人 (Eugene) UTAU**](https://github.com/ELIASADAMS/eugene-utau) · [**茜音イーライ (Akane Iirai)**](https://github.com/ELIASADAMS/Iirai) · [**Akane Iirai character project**](https://github.com/ELIASADAMS/akane_iirai)
+
+I build and document original singing-synthesizer voices as both **technical instruments and artistic characters**.
+
+Current work includes Japanese CVVC voicebanks, recording and otoing workflows, voice-specific expression, character design, and the relationship between a synthetic voice and the fictional identity surrounding it.
+
+---
+
+### 🏗️ eli_lab
+
+[**`eli_lab` →**](https://github.com/ELIASADAMS/eli_lab)
+
+My long-running personal creative workspace for web experiments, tools, visual material and prototypes.
+
+It is less a conventional software product than an evolving **digital studio / laboratory** — a place where ideas can move between code, design, sound and interactive media.
+
+Related infrastructure includes:
+
+- [**eli_lab Multimedia Framework**](https://github.com/ELIASADAMS/eli_lab-multimedia-framework)
+- [**eli_lab Voicebox**](https://github.com/ELIASADAMS/eli_lab-voicebox)
+- [**eli_lab SynthV scripts**](https://github.com/ELIASADAMS/eli_lab_sv_scripts)
+- [**eli_lab official site**](https://github.com/ELIASADAMS/eli_lab_official)
+
+---
+
+### 🏪 JIHANKI — interactive archive
+
+[**`jihanki-site` →**](https://github.com/ELIASADAMS/jihanki-site)
+
+**JIHANKI (自販機)** is an interactive archive presented as a Japanese vending machine interface.
+
+It brings together:
+
+- field notes
+- photographs
+- sounds and music
+- video material
+- scripts
+- yokai research
+- Sonic Pi experiments
+- project documentation
+
+The important part is the separation between **archive data, documents, media and interface**. The vending machine is not decoration around the archive — it is the way the archive is experienced.
+
+JIHANKI grew out of an art residence in Japan and became a larger system for documenting landscape, encounters, infrastructure, folklore and memory.
+
+---
+
+### 🌋 Landscape / folklore / field systems
+
+A growing part of my practice explores places as if they were **recording devices**.
+
+Recent work around Fuji, Aokigahara, Saiko and surrounding landscapes combines field recordings, experimental music, invented folklore, documentary fragments, visual studies and interactive archives.
+
+Projects such as JIHANKI and the **Fuji Six Great Yokai** research treat folklore not simply as historical material, but as something that can be reconstructed, remixed and experienced through contemporary digital systems.
+
+---
+
+## Generative audio
+
+I use code to build musical environments rather than only individual tracks.
+
+My Sonic Pi work explores:
+
+- procedural ambient structures
+- evolving rhythm and broken groove
+- IDM / experimental percussion
+- Japanese and ritual-inspired sonic palettes
+- environmental textures
+- feedback and memory systems
+- modular live-coding architectures
+- generative transitions and long-form evolution
+
+The emphasis is on **systems that behave**, rather than loops that merely repeat.
+
+---
+
+## Creative coding
+
+My code tends to sit between traditional software development and artistic research.
+
+```text
+LANGUAGE / TOOL       USE
+────────────────────────────────────────────
+Python                generative audio, UST tools, automation
+JavaScript / HTML/CSS  interactive archives, websites, creative UI
+Ruby / Sonic Pi        procedural music and live-coded systems
+UTAU / OpenUtau        vocal synthesis and voicebank development
+Synthesizer V          custom scripts and vocal workflows
+C++ / Qt               experimental application work
+Blender                3D / visual experimentation
+PyTorch                machine-learning experiments
+```
+
+I care about **modularity, reproducibility, inspectable systems and tools that can be reused inside creative workflows**.
+
+---
+
+## Other public experiments
+
+Not everything I make is a flagship project. Some repositories are deliberately small, strange, unfinished or highly specific.
+
+A few examples:
+
+- [**`midi-model`**](https://github.com/ELIASADAMS/midi-model) — experimental MIDI / music-system work
+- [**`parazit-web`**](https://github.com/ELIASADAMS/parazit-web) — experimental web work
+- [**`eli3d.github.io`**](https://github.com/ELIASADAMS/eli3d.github.io) — 3D / web experiments
+- [**`punk_exhibition`**](https://github.com/ELIASADAMS/punk_exhibition) — exhibition-related experiment
+- [**`Pleiir`**](https://github.com/ELIASADAMS/Pleiir) — experimental project
+- [**`Antokolskyj`**](https://github.com/ELIASADAMS/Antokolskyj) — older experimental work
+- [**`gonkiitochka`**](https://github.com/ELIASADAMS/gonkiitochka) — older creative project
+
+Some repositories are intentionally private, archival, unfinished or too context-dependent to represent the public-facing practice. This profile is therefore a **curated map**, not a complete database of everything on my GitHub.
+
+---
+
+## Philosophy
+
+I am interested in the point where a technical object starts behaving like a cultural object.
+
+A voicebank can become a character.
+
+A script can become a ritual.
+
+A vending machine can become an archive.
+
+A melody generator can become a collaborator.
+
+A field recording can become evidence of a place that no longer exists in quite the same way.
+
+That is the territory I'm currently exploring.
+
+---
+
+## Find me elsewhere
+
+<p align="center">
+  <a href="https://eliasadams.github.io/">Website</a> ·
+  <a href="https://www.youtube.com/@elilab">YouTube</a> ·
+  <a href="https://instagram.com/eli_lab_official">Instagram</a> ·
+  <a href="https://t.me/ilyaminineli">Telegram</a> ·
+  <a href="https://www.behance.net/eli_lab">Behance</a> ·
+  <a href="https://discord.gg/elilab">Discord</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+For collaboration, project questions or creative/technical exchange:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eliasadams&show_icons=true&locale=en&layout=compact" alt="eliasadams" /></p>
+**ilyaminineli@gmail.com**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eliasadams&show_icons=true&locale=en" alt="eliasadams" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eliasadams&" alt="eliasadams" /></p>
+<div align="center">
+
+### build strange things · make them sing · archive what happened
+
+</div>
