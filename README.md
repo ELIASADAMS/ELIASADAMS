@@ -244,3 +244,6 @@ For collaboration, project questions or creative/technical exchange:
 ### build strange things · make them sing · archive what happened
 
 </div>
+
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ELIASADAMS&theme=radical&layout=compact)](https://github.com/Pranesh-2005/github-readme-stats)
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=ELIASADAMS&theme=radical&layout=pie)](https://github.com/pranesh-2005/github-readme-stats-fast)
