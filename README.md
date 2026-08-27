@@ -69,19 +69,7 @@ A large part of my current practice is concerned with **landscape, infrastructur
 
 A procedural Japanese lyric → UTAU UST generator designed as a **generative starting point and tuning assistant**.
 
-Hiro combines:
-
-- Japanese mora-aware phonemization
-- yōon, small-tsu and moraic nasal handling
-- phrase and section analysis
-- procedural melody generation
-- scale and voice-range constraints
-- motif memory and variation
-- deterministic seeded generation
-- timing and dynamics heuristics
-- Japanese pitch-accent-aware behaviour
-- pitch bends and microtonal expression
-- UST serialization
+Hiro combines Japanese mora-aware phonemization, phrase and section analysis, procedural melody generation, scale and voice-range constraints, motif memory and variation, deterministic seeded generation, timing and dynamics heuristics, Japanese pitch-accent-aware behaviour, pitch bends and microtonal expression, and UST serialization.
 
 The goal is not to replace a human tuner. It is to make the space between **lyrics → musical idea → editable vocal project** much faster and more expressive.
 
@@ -103,13 +91,12 @@ Current work includes Japanese CVVC voicebanks, recording and otoing workflows, 
 
 My long-running personal creative workspace for web experiments, tools, visual material and prototypes.
 
-It is less a conventional software product than an evolving **digital studio / laboratory** — a place where ideas can move between code, design, sound and interactive media.
-
 Related infrastructure includes:
 
 - [**eli_lab Multimedia Framework**](https://github.com/ELIASADAMS/eli_lab-multimedia-framework)
 - [**eli_lab Voicebox**](https://github.com/ELIASADAMS/eli_lab-voicebox)
 - [**eli_lab SynthV scripts**](https://github.com/ELIASADAMS/eli_lab_sv_scripts)
+- [**eli_lab Blender Pipeline Hub**](https://github.com/ELIASADAMS/eli_lab_pipeline_hub)
 - [**eli_lab official site**](https://github.com/ELIASADAMS/eli_lab_official)
 
 ---
@@ -120,18 +107,7 @@ Related infrastructure includes:
 
 **JIHANKI (自販機)** is an interactive archive presented as a Japanese vending machine interface.
 
-It brings together:
-
-- field notes
-- photographs
-- sounds and music
-- video material
-- scripts
-- yokai research
-- Sonic Pi experiments
-- project documentation
-
-The important part is the separation between **archive data, documents, media and interface**. The vending machine is not decoration around the archive — it is the way the archive is experienced.
+It brings together field notes, photographs, sounds and music, video material, scripts, yokai research, Sonic Pi experiments and project documentation. The vending machine is not decoration around the archive — it is the way the archive is experienced.
 
 JIHANKI grew out of an art residence in Japan and became a larger system for documenting landscape, encounters, infrastructure, folklore and memory.
 
@@ -151,16 +127,7 @@ Projects such as JIHANKI and the **Fuji Six Great Yokai** research treat folklor
 
 I use code to build musical environments rather than only individual tracks.
 
-My Sonic Pi work explores:
-
-- procedural ambient structures
-- evolving rhythm and broken groove
-- IDM / experimental percussion
-- Japanese and ritual-inspired sonic palettes
-- environmental textures
-- feedback and memory systems
-- modular live-coding architectures
-- generative transitions and long-form evolution
+My Sonic Pi work explores procedural ambient structures, evolving rhythm and broken groove, IDM / experimental percussion, Japanese and ritual-inspired sonic palettes, environmental textures, feedback and memory systems, modular live-coding architectures, and generative transitions for long-form evolution.
 
 The emphasis is on **systems that behave**, rather than loops that merely repeat.
 
@@ -187,20 +154,79 @@ I care about **modularity, reproducibility, inspectable systems and tools that c
 
 ---
 
-## Other public experiments
+## Selected projects & archives
 
-Not everything I make is a flagship project. Some repositories are deliberately small, strange, unfinished or highly specific.
+The repositories below broaden the picture beyond the main eli_lab / voice-synthesis ecosystem. They include finished audiovisual work, older game experiments, commissioned animation, exhibition work, and smaller creative tools.
 
-A few examples:
+### 🎞️ EWP Project — CGI abstract animation
 
-- [**`parazit-web`**](https://github.com/ELIASADAMS/parazit-web) — experimental web work
-- [**`eli3d.github.io`**](https://github.com/ELIASADAMS/eli3d.github.io) — 3D / web experiments
-- [**`punk_exhibition`**](https://github.com/ELIASADAMS/punk_exhibition) — exhibition-related experiment
-- [**`Pleiir`**](https://github.com/ELIASADAMS/Pleiir) — experimental project
-- [**`Antokolskyj`**](https://github.com/ELIASADAMS/Antokolskyj) — older experimental work
-- [**`gonkiitochka`**](https://github.com/ELIASADAMS/gonkiitochka) — older creative project
+[**`ewproject` →**](https://github.com/ELIASADAMS/ewproject)
 
-Some repositories are intentionally private, archival, unfinished or too context-dependent to represent the public-facing practice. This profile is therefore a **curated map**, not a complete database of everything on my GitHub.
+A 2023 CGI abstract animation directed by Ilya Minin (Eli), combining Blender production, character work, SFX and experimental storytelling around alienation, identity and social disconnection. The repository preserves characters, scenes, assets and parts of the production pipeline. fileciteturn2file0
+
+### 🗿 Antokolskyj — historical animation
+
+[**`Antokolskyj` →**](https://github.com/ELIASADAMS/Antokolskyj)
+
+A completed Blender animation project created with Anna Yuytova for GRIG Film under Grigoriy Ilugdin. It reconstructs scenes connected with the life of sculptor Mark Antokolsky and preserves character rigs, locations, assets, FBX sculptures, rendered images, sound and production material. The project was screened and shown on TV. fileciteturn4file0
+
+### 🏎️ Gonki i Tochka — arcade racing game
+
+[**`gonkiitochka` →**](https://github.com/ELIASADAMS/gonkiitochka)
+
+A week-long hackathon project made with Mikhail Tenkovsky and Artyom Merkushev: a low-poly Unity 3D arcade racing game set on Moscow streets. Eli worked on level design, sound design, models and lighting. fileciteturn5file0
+
+### 🏭 Assembly Line Challenge — Unreal Engine prototype
+
+[**`Assembly-Line-Challenge` →**](https://github.com/ELIASADAMS/Assembly-Line-Challenge)
+
+An abandoned Unreal Engine 4.27 arcade-game prototype about assembling PCs on a fast conveyor belt. Although unfinished, it documents an early gameplay / Blueprint experiment and a whimsical factory environment. fileciteturn3file0
+
+### 🎬 Pleiir — unofficial clip
+
+[**`Pleiir` →**](https://github.com/ELIASADAMS/Pleiir)
+
+An eli_lab audiovisual clip directed, animated and technically developed by Eli with Spalah. The repository preserves the production project and Blender-based workflow. fileciteturn6file0
+
+### 🧰 Creative tools & small experiments
+
+- [**`eli_lab-the-poster`**](https://github.com/ELIASADAMS/eli_lab-the-poster) — *The Poster*, a small visual project by Ilya Minin (Eli).
+- [**`eli_lab-the-formatter`**](https://github.com/ELIASADAMS/eli_lab-the-formatter) — formatting / workflow experiment from the eli_lab tool ecosystem.
+- [**`eli_lab-the-previewer`**](https://github.com/ELIASADAMS/eli_lab-the-previewer) — previewing experiment related to the multimedia workflow.
+- [**`JPTrainer`**](https://github.com/ELIASADAMS/JPTrainer) — small Japanese-language learning experiment.
+- [**`eli_lab_pipeline_hub`**](https://github.com/ELIASADAMS/eli_lab_pipeline_hub) — Blender pipeline tooling and workflow infrastructure.
+- [**`parazit-web`**](https://github.com/ELIASADAMS/parazit-web) — experimental web work.
+- [**`punk_exhibition`**](https://github.com/ELIASADAMS/punk_exhibition) — exhibition-related experiment.
+
+These are deliberately not presented as a generic repository dump: the profile highlights projects that explain the **continuity between Eli's older 3D/game/animation work and the newer generative audio, voice-synthesis and archival practice**.
+
+---
+
+## Generative / media ecosystem
+
+The broader public repository set now maps into several connected layers:
+
+```text
+                    ELI LAB
+                       │
+       ┌───────────────┼────────────────┐
+       │               │                │
+     SOUND           VOICE            IMAGE
+       │               │                │
+ Sonic Pi         UTAU / SynthV      Blender
+ text-to-ust       Voicebanks         Animation
+ pattern systems   Iirai / Eugene     CGI / Clips
+       │               │                │
+       └───────────────┼────────────────┘
+                       │
+                 ARCHIVE / WEB
+                       │
+              JIHANKI / eli_lab
+                       │
+          FIELDWORK / FOLKLORE / MEMORY
+```
+
+This is the important relationship between the repositories: they are not isolated software projects, but different instruments in the same practice.
 
 ---
 
@@ -217,6 +243,8 @@ A vending machine can become an archive.
 A melody generator can become a collaborator.
 
 A field recording can become evidence of a place that no longer exists in quite the same way.
+
+A Blender file can become an archaeological record of a film, game or fictional world.
 
 That is the territory I'm currently exploring.
 
